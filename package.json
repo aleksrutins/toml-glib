@@ -1,0 +1,6 @@
+{
+  "$schema" : "https://aleksrutins.github.io/valapkg/project.schema.json",
+  "name" : "toml-glib",
+  "author" : "elegaanz",
+  "website" : ""
+}
